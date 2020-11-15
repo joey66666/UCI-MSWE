@@ -27,6 +27,8 @@ Course Project for **SWE 241P Applied Data Structure and Algorithms**.
 - Implement both a breadth-first search algorithm and a depth-first search algorithm.
 - Experiment the above algorithms on a graph.
 
+---
+
 ## UCI SWE242P
 
 Course Project for **SWE 242P Network Programming**.
@@ -42,6 +44,8 @@ Course Project for **SWE 242P Network Programming**.
 - Revise network file server program from module 3 to work on top of the UDP protocol. 
   1. UDP datagram has a size limit; needs to break the large files into smaller chunks that can be transported using UDP.  
   2. UDP is unreliable; implement the additional logic on top of the UDP protocol to ensure files are transmitted reliably on top of this protocol. 
+
+---
 
 ##  UCI SWE243P
 
@@ -62,6 +66,8 @@ Course Project for **SWE 243P Database Programming**.
 
 - Tkinter
 - Pymysql
+
+---
 
 ### Acknowledgement
 
