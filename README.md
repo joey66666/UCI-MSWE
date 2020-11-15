@@ -1,4 +1,7 @@
 # UCI-MSWE
+
+[![HitCount](http://hits.dwyl.com/joey66666/uci-mswe.svg)](http://hits.dwyl.com/joey66666/uci-mswe)
+
 Quarter Fall 2020 Course Resources for Master of Software Engineering at University of California Irvine.
 
 **Book Resources are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
