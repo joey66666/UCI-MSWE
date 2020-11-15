@@ -72,6 +72,3 @@ Course Project for **SWE 243P Database Programming**.
 ### Acknowledgement
 
 - **Hopefully the code could help you understand, but according to the rubric, copy-and-paste is not encouraged.**
-- Thanks for students, teaching assistants, and professors at [Donald Bren School of Information and Computer Sciences, University of California, Irvine](https://www.ics.uci.edu/)
-
-
