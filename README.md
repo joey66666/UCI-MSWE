@@ -63,7 +63,7 @@ Course Project for **SWE 243P Database Programming**.
   - Querying to see which courses each student is in
   - Querying to see which courses and what times each course is for a given student on a given day of the week.
 - Interact with GUI interface.
-- ![Ex M5.1](https://raw.githubusercontent.com/joey66666/UCI-MSWE/main/243P/Ex/Ex%20M5.1/Demo.png)
+![Ex M5.1](https://raw.githubusercontent.com/joey66666/UCI-MSWE/main/243P/Ex/Ex%20M5.1/Demo.png)
 
 ##### Dependencies
 
