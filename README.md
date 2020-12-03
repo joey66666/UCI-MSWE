@@ -1,6 +1,6 @@
 # UCI-MSWE
 
-[![HitCount](http://hits.dwyl.com/joey66666/uci-mswe.svg)](http://hits.dwyl.com/joey66666/uci-mswe)
+[![HitCount](http://hits.dwyl.com/joey66666/UCI-MSWE.svg)](http://hits.dwyl.com/joey66666/UCI-MSWE)
 
 ![image](https://user-images.githubusercontent.com/25404074/100097926-368c4080-2e98-11eb-8ccd-26915fcd4711.png)
 
@@ -12,7 +12,7 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 - SWE 246P Mobile Programming - iOS
 - SWE 250P Web Programming
 
-**Book Resources are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
+**Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
 ## UCI SWE241P
 
