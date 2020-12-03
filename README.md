@@ -1,5 +1,10 @@
 # UCI-MSWE
-Quarter Fall 2020 Course Resources for Master of Software Engineering at University of California Irvine.
+
+[![HitCount](http://hits.dwyl.com/joey66666/uci-mswe.svg)](http://hits.dwyl.com/joey66666/uci-mswe)
+
+![image](https://user-images.githubusercontent.com/25404074/100097926-368c4080-2e98-11eb-8ccd-26915fcd4711.png)
+
+Quarter Fall 2020 Course Projects for Master of Software Engineering at University of California Irvine.
 
 - SWE 241P Applied Data Structure and Algorithms
 - SWE 242P Network Programming
@@ -65,7 +70,7 @@ Course Project for **SWE 243P Database Programming**.
   - Querying to see which courses each student is in
   - Querying to see which courses and what times each course is for a given student on a given day of the week.
 - Interact with GUI interface.
-- ![Ex M5.1](https://raw.githubusercontent.com/joey66666/UCI-MSWE/main/243P/Ex/Ex%20M5.1/Demo.png)
+![Ex M5.1](https://raw.githubusercontent.com/joey66666/UCI-MSWE/main/243P/Ex/Ex%20M5.1/Demo.png)
 
 ##### Dependencies
 
