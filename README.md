@@ -10,6 +10,7 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 - SWE 242P Network Programming
 - SWE 243P Database Programming
 - SWE 246P Mobile Programming - iOS
+- SWE 250P Web Programming
 
 **Book Resources are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
@@ -18,7 +19,6 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 Course Project for **SWE 241P Applied Data Structure and Algorithms**.
 
 ### Exercise 1
-
 - Implement three sets based on Linked list, Binary tree, Hash table.
 - Read and tokenize an input text file and store in sets, search words in each set.
 - Measure how much time (in nanoseconds) it takes to insert and search in the sets.
@@ -37,7 +37,6 @@ Course Project for **SWE 241P Applied Data Structure and Algorithms**.
 - Implement both a breadth-first search algorithm and a depth-first search algorithm.
 - Experiment the above algorithms on a graph.
 
----
 
 ## UCI SWE242P
 
@@ -55,14 +54,12 @@ Course Project for **SWE 242P Network Programming**.
   1. UDP datagram has a size limit; needs to break the large files into smaller chunks that can be transported using UDP.  
   2. UDP is unreliable; implement the additional logic on top of the UDP protocol to ensure files are transmitted reliably on top of this protocol. 
 
----
 
 ##  UCI SWE243P
 
 Course Project for **SWE 243P Database Programming**.
 
 ### Exercise M5.1
-
 - Keeps track of students, courses, and their schedules. 
   - Allow new students to enroll into the program
   - New courses to be introduced, students to enroll in courses
@@ -73,17 +70,22 @@ Course Project for **SWE 243P Database Programming**.
 ![Ex M5.1](https://raw.githubusercontent.com/joey66666/UCI-MSWE/main/243P/Ex/Ex%20M5.1/Demo.png)
 
 ##### Dependencies
-
 - Tkinter
 - Pymysql
 
----
+
+## UCI SWE 250P
+
+Course Project for **SWE 250P Web Programming**.
+
+### [Apress/Modern Full Stack Programming](https://github.com/Apress/modern-full-stack-development)
 
 ## UCI SWE 246P
 
 Course Project for **SWE 246P Mobile Programming - iOS**.
 
 ### [QuizAPP](https://github.com/joey66666/QuizAPP)
+
 
 ### Acknowledgement
 
