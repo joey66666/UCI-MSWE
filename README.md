@@ -1,6 +1,11 @@
 # UCI-MSWE
 Quarter Fall 2020 Course Resources for Master of Software Engineering at University of California Irvine.
 
+- SWE 241P Applied Data Structure and Algorithms
+- SWE 242P Network Programming
+- SWE 243P Database Programming
+- SWE 246P Mobile Programming - iOS
+
 **Book Resources are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
 ## UCI SWE241P
@@ -68,6 +73,12 @@ Course Project for **SWE 243P Database Programming**.
 - Pymysql
 
 ---
+
+## UCI SWE 246P
+
+Course Project for **SWE 246P Mobile Programming - iOS**.
+
+### [QuizAPP](https://github.com/joey66666/QuizAPP)
 
 ### Acknowledgement
 
