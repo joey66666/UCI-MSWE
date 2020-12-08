@@ -1,6 +1,6 @@
 # UCI-MSWE
 
-[![HitCount](http://hits.dwyl.com/joey66666/UCI-MSWE.svg)](http://hits.dwyl.com/joey66666/UCI-MSWE)
+<!-- [![HitCount](http://hits.dwyl.com/joey66666/UCI-MSWE.svg)](http://hits.dwyl.com/joey66666/UCI-MSWE) -->
 
 ![image](https://user-images.githubusercontent.com/25404074/100097926-368c4080-2e98-11eb-8ccd-26915fcd4711.png)
 
@@ -10,7 +10,7 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 - [SWE 242P Network Programming](#uci-swe-242p-network-programming)
 - [SWE 243P Database Programming](#uci-swe-243p-database-programming)
 - [SWE 244P Concurrent Programming](#uci-swe-244p-concurrent-programming)
-- [SWE 246P Mobile Programming - iOS](https://github.com/joey66666/QuizAPP)
+- [SWE 246P Mobile Programming (iOS)](https://github.com/joey66666/QuizAPP)
 - [SWE 250P Web Programming](https://github.com/Apress/modern-full-stack-development)
 
 **Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
@@ -112,13 +112,40 @@ Multi-threaded Hello World
 - Reimplenent Exercise 4.2 in Python.
 - Read all text files in the directory.
 - Pocess the counting of words in each text file in a separate thread.
+
+## UCI SWE 246P Mobile Programming (iOS)
+
+### Implementation of 246P is here: [QuizAPP](https://github.com/joey66666/QuizAPP)
+
 ## UCI SWE 250P Web Programming
 
-### [Apress/Modern Full Stack Programming](https://github.com/Apress/modern-full-stack-development)
+### Original Repo: [Apress/Modern Full Stack Programming](https://github.com/Apress/modern-full-stack-development)
+### Practice M1
+- Read, reproduce, execute, and understand codes from the HTML&CSS Design and Build Websites textbook. Modify the example code from Chapter 17 in order for you to create a simple webpage of your own - you can think about using this later as your webpage! The aim is for you to get acquainted with HTML/CSS to a point that you will feel comfortable creating simple webpages from scratch.
 
-## UCI SWE 246P Mobile Programming - iOS
+### Practice M2
+- Develop your first web server using Node.js and NPM, learn how to work with these important tools of the modern web stack, have your first web server up and running. Use the web server that you created locally to serve a very simple, single-page webpage, and describe and report what you have done. The aim is for you to start understanding how a simple web server works and get acquainted with Node.js so that you will be able to use it in your future work and during this course.
+- Using the relevant partial codes from Chapters 1 and 2 of the textbook, create codes by your own that will allow you to have a simple web server up and running and serving the webpage that you created in the first assignment.
 
-### [QuizAPP](https://github.com/joey66666/QuizAPP)
+### Practice M3
+- Add some React components to your webpage based on the codes from Chapters 3 and 4 of the textbook. The aim is for you to get acquainted with React and how React can be used to improve significantly the user experience in more complex web applications - as you will be developing later in this course.
+- Using the relevant partial codes from Chapter 3 and 4 of the textbook, either modify the web page that you developed in the first assignment so you can add React components or create a new web page from scratch to demonstrate your React understanding.
+
+### Practice M4
+- Read, reproduce line-by-line, execute, and understand the code from Chapter 5 of the textbook. The aim is for you to learn the basics of TypeScript, which is an important modern language for web development that is becoming each time more popular in the web industry.
+- From Chapter 5 of the textbook, make sure to reproduce all the codes. Create a small webpage or modify the webpage that you have been developing throughout this course to demonstrate that you understand how to write simple TypeScript code. Your webpage can be about anything, as long as it is fully functional and that it includes TypeScript elements. Make sure to use arrow functions and some classes also.
+
+### Practice M5
+- Read, reproduce line-by-line, execute, and understand the code from Chapter 6 and 7 of the textbook. The aim is for you to learn more advanced features of TypeScript and learn how to create bundles that simplify the management of the development and deployment of your web applications.
+- From Chapter 6 of the textbook, make sure to reproduce all the codes. Add some mode advanced features of TypeScript to the webpage that you have been working in the previous assignment. You should at least demonstrate that you can work with modules, but if you wish you can also start using third party libraries.
+
+### Practice M6
+- Read, reproduce line-by-line, execute, and understand the code of Chapter 8 of the textbook. The aim here is for you to merge together different tools and techniques that you have seen in the previous assignments and readings to build a fully functional web application, in this case, the server-side component of your own webmail system!
+- From Chapter 8 of the textbook, make sure to reproduce all the codes and modify them at will adding whatever exclusive features you feel that would improve your webmail system.
+
+### Practice M7
+- Read, reproduce line-by-line, execute, and understand the code of Chapter 9 of the textbook. The aim here is for you to merge together different tools and techniques that you have seen in the previous assignments and readings to build a fully functional web application, in this case, the client-side component of your own webmail system! You can be creative here and if you wish you can modify and write a new code to provide a different user experience for email than it is provided by normal webmail systems! Who knows, this can even become a kickoff idea of your own startup!
+- From Chapter 9 of the textbook, make sure to reproduce all the codes and modify them at will adding whatever exclusive features you feel that would improve your webmail system. Make sure to profit from the knowledge that you acquired since the first module of this course to improve the user experience of your web application.
 
 ## Acknowledgement
 
