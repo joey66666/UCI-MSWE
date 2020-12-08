@@ -1,6 +1,6 @@
 # UCI-MSWE
 
-<!-- [![HitCount](http://hits.dwyl.com/joey66666/UCI-MSWE.svg)](http://hits.dwyl.com/joey66666/UCI-MSWE) -->
+<a title="Hits" target="_blank" href="https://github.com/joey66666/uci-mswe"><img src="https://hits.b3log.org/joey66666/uci-mswe.svg"></a>
 
 ![image](https://user-images.githubusercontent.com/25404074/100097926-368c4080-2e98-11eb-8ccd-26915fcd4711.png)
 
