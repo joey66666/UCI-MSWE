@@ -1,18 +1,18 @@
 {
   "smtp": {
-    "host": "smtp.aliyun.com",
+    "host": "",
     "port": 465,
     "auth": {
-      "user": "joey66666@aliyun.com",
-      "pass": "joey66666"
+      "user": "",
+      "pass": ""
     }
   },
   "imap": {
-    "host": "imap.aliyun.com",
+    "host": "",
     "port": 993,
     "auth": {
-      "user": "joey66666@aliyun.com",
-      "pass": "joey66666"
+      "user": "",
+      "pass": ""
     }
   }
 }
