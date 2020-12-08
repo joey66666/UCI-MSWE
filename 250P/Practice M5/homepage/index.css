@@ -1,0 +1,272 @@
+* {
+    color: #fff;
+    font-size: 14px;
+}
+
+p {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.main-wrapper {
+    background: url("https://raw.githubusercontent.com/joey66666/ImgHost/main/img/20201125133642.png");
+    /*HD*/
+    /*background: url("https://raw.githubusercontent.com/joey66666/ImgHost/main/img/20201125155749.jpg");*/
+    background-attachment: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*header*/
+
+.header {
+    /*alpha to dim the background*/
+    background: rgba(0, 0, 0, 0.2);
+}
+
+nav {
+    height: 50px;
+    line-height: 50px;
+    background: inherit;
+}
+
+nav .logo {
+    float: left;
+    margin-left: 20px;
+}
+
+nav .logo a {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav .logo a, nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+nav .logo a:hover, nav ul li a:hover {
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    text-decoration: none;
+}
+
+.banner {
+    /*100% of the screen*/
+    height: calc(100vh);
+}
+
+.banner .wrapper {
+    max-width: 380px;
+    text-align: center;
+    position: relative;
+    top: calc(40vh);
+    margin: 0 auto;
+}
+
+.banner h1 {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.sub-header {
+    font-size: 18px;
+    margin: 20px 0;
+    letter-spacing: 1px;
+}
+
+.banner .sub-header {
+    font-size: 16px;
+    line-height: 30px;
+    padding: 10px 0;
+}
+
+.banner button {
+    border: none;
+    background: #1b89d2;
+    border-radius: 10px;
+    padding: 14px 40px;
+}
+
+.banner button a{
+    color: #ffffff;
+}
+
+.banner .more {
+    margin-top: calc(25vh);
+}
+
+/*green部分*/
+
+.section1 {
+    height: 450px;
+    background: #FF9900;
+    padding: 100px 0;
+}
+
+.section1 .wrapper {
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.section1 h2{
+    border-bottom: #ffffff 2px solid;
+    padding-bottom: 10px;
+}
+
+.section1 .icon-group .icon {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    transform: rotate(45deg);
+    border: 2px solid #05867a;
+    margin: 20px;
+    padding: 15px;
+}
+
+.section1 .icon-group .icon i {
+    transform: rotate(-45deg);
+}
+
+
+.section2 {
+    background: #FFFFCC;
+    height: 1200px;
+}
+
+
+
+/*select all child div of .pre-view*/
+.pre-view > div {
+    float: left;
+    /*make sure no break*/
+    font-size: 0;
+}
+
+.pre-view:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.section2-1 {
+    width: 80%;
+    color: #663300;
+    padding-left: 40px;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+
+.section2-1 h2,.section2-1 .sub-header, .section2-1 p{
+    color: #663300;
+}
+
+.section2-1 > * {
+     /*prevent overflow*/
+    max-width: 90%;
+}
+
+.img-section{
+    width: 20%;
+}
+
+.img-section img {
+    /*width: 300px;*/
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.pre-view:nth-child(odd) {
+    background-color: rgba(0, 0, 255, 0.03);
+}
+
+
+.section3 {
+    padding: 150px;
+    background: #336699;
+}
+
+.section3 .wrapper {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.head-wrapper h2{
+    padding-bottom: 10px;
+    border-bottom: #ffffff 2px solid;
+}
+
+.head-wrapper p {
+    margin: 20px 0;
+}
+
+.section3 .card-group .card {
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.card-group .card h2 {
+    font-size: 20px;
+}
+
+.clear:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.card:first-child {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.card:nth-child(2) {
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.card:nth-child(3) {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+.card:nth-child(4) {
+    background-color: rgba(0, 0, 0, 0.16);
+}
+
+
+.footer {
+    background: #333;
+    min-height: 200px;
+    text-align: center;
+}
+
+.footer .icon-group {
+    display: block;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.footer .icon-group li {
+    display: inline-block;
+    padding: 10px;
+}
