@@ -11,7 +11,7 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 - [SWE 243P Database Programming](#uci-swe-243p-database-programming)
 - [SWE 244P Concurrent Programming](#uci-swe-244p-concurrent-programming)
 - [SWE 246P Mobile Programming (iOS)](https://github.com/joey66666/QuizAPP)
-- [SWE 250P Web Programming](https://github.com/Apress/modern-full-stack-development)
+- [SWE 250P Web Programming](#uci-swe-250p-web-programming)
 
 **Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
