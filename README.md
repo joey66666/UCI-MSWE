@@ -15,7 +15,7 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 
 **📙Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
-### 🚫According to the rubric, copy-and-paste is not allowed.
+### ❗️According to the rubric, copy-and-paste is not allowed.
 
 ## UCI SWE 241P Applied Data Structure and Algorithms
 
@@ -151,4 +151,4 @@ Multi-threaded Hello World
 
 ## ⚠️Acknowledgement
 
-**Hopefully the code could help you, but according to the rubric, copy-and-paste is not allowed.**
+**Hopefully the code could help you, but according to the rubric, copy-and-paste is not allowed.🚫**
