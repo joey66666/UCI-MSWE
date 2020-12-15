@@ -13,9 +13,9 @@ Quarter Fall 2020 Course Projects for Master of Software Engineering at Universi
 - [SWE 246P Mobile Programming (iOS)](https://github.com/joey66666/QuizAPP)
 - [SWE 250P Web Programming](#uci-swe-250p-web-programming)
 
-**Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
+**📙Books are [here](https://github.com/joey66666/UCI-MSWE/tree/main/Books).**
 
-### According to the rubric, copy-and-paste is not allowed.
+### 🚫According to the rubric, copy-and-paste is not allowed.
 
 ## UCI SWE 241P Applied Data Structure and Algorithms
 
@@ -149,6 +149,6 @@ Multi-threaded Hello World
 - Read, reproduce line-by-line, execute, and understand the code of Chapter 9 of the textbook. The aim here is for you to merge together different tools and techniques that you have seen in the previous assignments and readings to build a fully functional web application, in this case, the client-side component of your own webmail system! You can be creative here and if you wish you can modify and write a new code to provide a different user experience for email than it is provided by normal webmail systems! Who knows, this can even become a kickoff idea of your own startup!
 - From Chapter 9 of the textbook, make sure to reproduce all the codes and modify them at will adding whatever exclusive features you feel that would improve your webmail system. Make sure to profit from the knowledge that you acquired since the first module of this course to improve the user experience of your web application.
 
-## Acknowledgement
+## ⚠️Acknowledgement
 
 **Hopefully the code could help you, but according to the rubric, copy-and-paste is not allowed.**
